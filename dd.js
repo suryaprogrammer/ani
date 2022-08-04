@@ -13,6 +13,6 @@ let gt = {
 }
 
 function setup(params) {
-    let gg = prompt("fgffg ggffg :" )
-    alert(gg)
-
+    let gg = prompt("fgffg ggffg :" );
+    alert(gg);
+}
